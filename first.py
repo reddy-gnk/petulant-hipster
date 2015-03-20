@@ -2,7 +2,7 @@
 
 def main():
 
-	print "This is my first program on git"
+	print "This is my first program on git here"
 
 
 if __name__=="__main_":
