@@ -2,7 +2,7 @@
 
 def main():
 
-	print "This is my first program on git here 123"
+	print "This is my first program on git here"
 	print "hello"
 
 
